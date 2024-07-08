@@ -1,0 +1,30 @@
+.container{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKUO8jc87CudSByUJU7Lsso7VJcb8GOGWplw&s");
+ 
+    margin:10px 185px;
+    padding:10px;
+    border-radius:40px;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ 
+ 
+ label{
+    font-weight:bold;
+    display: block;
+    margin:20px;
+ }
+ input{
+    border-radius: 90px;
+ }
+    body{
+        background-image: url("https://dlcdnrog.asus.com/rog/media/1513882474746.webp");
+        display: table-row-group;
+        text-align: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    button{
+        margin: 50px;
+        background-color: green;
+    }
